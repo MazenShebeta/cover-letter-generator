@@ -1,4 +1,3 @@
-```markdown
 # 📝 Markdown → PDF Cover Letter Generator
 
 Generate beautiful, consistent cover letters as PDF files from Markdown using a styled HTML template and headless Chrome.
@@ -169,15 +168,4 @@ MIT — free to use, modify, and share.
 
 ---
 
-Made with ❤️ by [{{NAME}}](https://github.com/{{GITHUB}})
-```
-
----
-
-Let me know if you’d like:
-- `requirements.txt` generated for this
-- GitHub Actions setup (for linting or testing builds)
-- Multi-template support (e.g. `letter-to-acme.md`, `letter-to-spotify.md`)
-- Internationalization/localized date formatting
-
-Ready when you are.
+Made with ❤️ by [Mazen Shebeta](https://github.com/MazenShebeta)
