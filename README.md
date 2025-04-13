@@ -168,4 +168,10 @@ MIT — free to use, modify, and share.
 
 ---
 
+## 🌱 Inspired By
+
+Built with inspiration from [resume.md](https://github.com/mikepqr/resume.md) by [@mikepqr](https://github.com/mikepqr).  
+
+---
+
 Made with ❤️ by [Mazen Shebeta](https://github.com/MazenShebeta)
