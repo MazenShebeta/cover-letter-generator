@@ -163,7 +163,7 @@ python3 cover_letter_template.py cover_letter.md --no-pdf
 
 ---
 
-## 🛠 License
+## 🛠️ License
 
 MIT — free to use, modify, and share.
 
