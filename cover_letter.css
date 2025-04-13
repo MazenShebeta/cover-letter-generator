@@ -1,0 +1,21 @@
+body {
+    font-family: "Georgia", serif;
+    font-size: 10.5pt;
+    margin: 1in;
+    color: #222;
+    line-height: 1.5;
+}
+
+#letter {
+    max-width: 700px;
+    margin: auto;
+}
+
+a {
+    color: #0645AD;
+    text-decoration: none;
+}
+
+strong {
+    font-weight: bold;
+}
