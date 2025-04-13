@@ -94,8 +94,6 @@ Sincerely,
 **{{NAME}}**
 ```
 
-> ✅ All fields are optional — unfilled ones are automatically omitted.
-
 ### 4. Add Optional Styling
 
 Create a `cover_letter.css` for styling. Default fallback is provided if missing:
